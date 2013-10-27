@@ -20,6 +20,9 @@ local.properties
 addons.make
 *.xcodeproj
 *.xcconfig
+*.plist
+Makefile
+config.make
 
 # External tool builders
 .externalToolBuilders/
