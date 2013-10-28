@@ -15,14 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
-*.cbp
-*.workspace
-addons.make
-*.xcodeproj
-*.xcconfig
-*.plist
-Makefile
-config.make
+
 
 # External tool builders
 .externalToolBuilders/
